@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    tools:context="com.cxp.h5_scheme.MainActivity">
+
+    <Button
+        android:id="@+id/bt_web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WebView的用法"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt_js_demo"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JS和JAVA调用的demo" />
+
+
+</LinearLayout>

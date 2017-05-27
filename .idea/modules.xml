@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CXPDemo.iml" filepath="$PROJECT_DIR$/CXPDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clipboard/clipboard.iml" filepath="$PROJECT_DIR$/clipboard/clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug/debug.iml" filepath="$PROJECT_DIR$/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/espresso.iml" filepath="$PROJECT_DIR$/espresso/espresso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelistview/expandablelistview.iml" filepath="$PROJECT_DIR$/expandablelistview/expandablelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getapp/getapp.iml" filepath="$PROJECT_DIR$/getapp/getapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/h5_scheme/h5_scheme.iml" filepath="$PROJECT_DIR$/h5_scheme/h5_scheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit/junit.iml" filepath="$PROJECT_DIR$/junit/junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proguard/proguard.iml" filepath="$PROJECT_DIR$/proguard/proguard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proguard1/proguard1.iml" filepath="$PROJECT_DIR$/proguard1/proguard1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
+    </modules>
+  </component>
+</project>

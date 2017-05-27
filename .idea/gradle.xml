@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\android_studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/clipboard" />
+            <option value="$PROJECT_DIR$/debug" />
+            <option value="$PROJECT_DIR$/espresso" />
+            <option value="$PROJECT_DIR$/expandablelistview" />
+            <option value="$PROJECT_DIR$/getapp" />
+            <option value="$PROJECT_DIR$/h5_scheme" />
+            <option value="$PROJECT_DIR$/junit" />
+            <option value="$PROJECT_DIR$/lambda" />
+            <option value="$PROJECT_DIR$/proguard" />
+            <option value="$PROJECT_DIR$/proguard1" />
+            <option value="$PROJECT_DIR$/sqlite" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

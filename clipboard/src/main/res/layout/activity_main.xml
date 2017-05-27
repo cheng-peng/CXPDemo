@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/main_tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="复制：" />
+
+
+        <EditText
+            android:id="@+id/main_et1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10">
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/main_bt1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="clickLis"
+            android:text="点我复制上面内容" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/main_tv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="粘贴：" />
+
+
+        <EditText
+            android:id="@+id/main_et2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/main_bt2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="clickLis"
+            android:text="点我粘贴复制的内容" />
+    </LinearLayout>
+
+</LinearLayout>

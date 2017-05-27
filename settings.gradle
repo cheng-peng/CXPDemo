@@ -1,0 +1,1 @@
+include ':debug', ':proguard', ':junit', ':espresso', ':proguard1', ':clipboard', ':h5_scheme', ':lambda', ':sqlite', ':expandablelistview', ':getapp'
